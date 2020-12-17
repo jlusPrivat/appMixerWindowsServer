@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file alias="logo.ico">imgs/logo.ico</file>
+        <file alias="logo.png">imgs/logo.png</file>
+        <file alias="add-icon.png">imgs/add-icon.png</file>
+        <file alias="delete-icon.png">imgs/delete-icon.png</file>
+        <file alias="flag-de.png">imgs/flag-de.png</file>
+        <file alias="flag-en.png">imgs/flag-en.png</file>
+        <file alias="icon-up">imgs/icon-up.png</file>
+        <file alias="icon-down">imgs/icon-down.png</file>
+        <file alias="icon-mic">imgs/mic-icon.png</file>
+        <file alias="icon-session">imgs/session-icon.png</file>
+        <file alias="icon-speaker">imgs/speaker-icon.png</file>
+    </qresource>
+</RCC>
